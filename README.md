@@ -78,4 +78,5 @@ npm run android
 
 ## Screenshot
 
-*(Tambahkan screenshot aplikasi di sini)*
+<img width="171" height="359" alt="image" src="https://github.com/user-attachments/assets/508a945b-9be1-449b-a071-6467616541fc" />
+
